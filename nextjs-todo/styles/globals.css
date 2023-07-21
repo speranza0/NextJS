@@ -1,0 +1,68 @@
+body {
+  height: 100vh;
+  width: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.div-wrap .header-wrap {
+  height: 100px;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+}
+
+.header-in {
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#input {
+  height: 30px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#submit {
+  height: 30px;
+  width: 100px;
+}
+
+.div-wrap .content-wrap{
+  width: 50%;
+  margin: auto;
+}
+
+.filter {
+  text-align: center;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+#search {
+  height: 20px;
+  width: 250px;
+  margin-right: 20px;
+}
+
+#searchBtn {
+  height: 26px;
+  margin-right: 20px;
+}
+
+#list-box {
+  text-align: center;
+  font-size: 30px;
+}
+
+#todoList {
+  font-size: 17px;
+  text-align: left;
+}
